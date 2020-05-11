@@ -7,10 +7,10 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: Artist Theme
 email: your-email@domain.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "https://amava-lin.github.io" # the subpath of your site, e.g. /blog
+baseurl: "https://amava-lin.github.io/Artist-Theme" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: "https://amava-lin.github.io"
+url: "https://amava-lin.github.io/Artist-Theme"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
