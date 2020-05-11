@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello, Portland"
-date:   2016-01-31 09:11:03
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+title:  "Hello, New York ❤"
+date:   2020-05-11 03:41:03
+description: Testing this out and learning the ropes. 
 thumbnail: person1.jpeg
 categories: category1
 
