@@ -13,7 +13,7 @@ title: About
   <p>{{ page.title }}</p>
 </div>
 
-<div class="xs-12 imgBack textCenter vertCenter banner" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/city2.jpg)'></div>
+<div class="xs-12 imgBack textCenter vertCenter banner" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/relax.jpg)'></div>
 
 <div class='divider xs-12 topBarTrigger'></div>
 
@@ -21,11 +21,11 @@ title: About
 
   <!-- Tell people something unique about you... -->
   <h1 class='textCenter'>About</h1>
-  <p class='big textCenter'><b class='accent'>Getting Groovy with Sass & Jade</b></p>
+  <p class='big textCenter'><b class='accent'> Coffee hour with Sara</b></p>
 
-  <p>Nina Petropoulos is a self-taught web designer and developer who's trying to get better by making themes like this one. An English major by day and a music producer by night, Nina believes in artistic expression and curiosity. Use this page to talk about yourself and blog.</p>
+  <p>Sara Lin is a self-taught web designer and developer who works in behavioral health services. Sara is matriculating at Columbia University as an occupational therapy student starting in the fall. </p>
 
-  <!-- List you associated sites and social medias... -->
+  <!-- List you associated sites and social medias... 
   <div class='flexbox-contain this justify-around icon-container'>
     <img class='social-media' src='{{ site.url }}/assets/img/icons/twitter.svg'>
     <img class='social-media' src='{{ site.url }}/assets/img/icons/behance.svg'>
@@ -33,5 +33,45 @@ title: About
     <img class='social-media' src='{{ site.url }}/assets/img/icons/Github.svg'>
     <img class='social-media' src='{{ site.url }}/assets/img/icons/Google-Plus.svg'>
     <img class='social-media' src='{{ site.url }}/assets/img/icons/youtube.svg'>
-  </div>
+  </div> -->
+
+  <ul class="social_footer">
+    {% if site.spotify_url %}
+    <li><a href="{{ site.spotify_url }}" target="_blank"><i class="fa fa-spotify" aria-hidden="true"></i></a></li>
+    {% else %}
+    <li><a href="#" target="_blank"><i class="fa fa-spotify" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.soundcloud_url %}
+    <li><a href="{{ site.soundcloud_url }}" target="_blank"><i class="fa fa-soundcloud" aria-hidden="true"></i></a></li>
+    {% else %}
+    <li><a href="#" target="_blank"><i class="fa fa-soundcloud" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.apple_url %} 
+    <li><a href="{{ site.apple_url }}" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i></a></li>
+    {% else %} 
+    <li><a href="#" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i></a></li>
+    {% endif %} 
+    {% if site.google_url %}
+    <li><a href="{{ site.google_url }}" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+    {% else %}
+    <li><a href="#" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a></li>      
+    {% endif %}
+    {% if site.amazon_url %}
+    <li><a href="{{ site.amazon_url }}" target="_blank"><i class="fa fa-amazon" aria-hidden="true"></i></a></li>
+    {% else %}
+    <li><a href="#" target="_blank"><i class="fa fa-amazon" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.instagram_url %}
+    <li><a href="{{ site.instagram_url }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+    {% else %}
+    <li><a href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+    {% endif %}
+    <!-- {% if site.twitter_url %}
+    <li><a href="{{ site.twitter_url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    {% else %}
+    <li><a href="#" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    {% endif %} -->
+  </ul>
+
+
 </div>

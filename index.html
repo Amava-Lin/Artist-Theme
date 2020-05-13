@@ -7,7 +7,7 @@ title: Home
 <div class="xs-12 imgBack link textCenter vertCenter grow tall" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
   <div>
     <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-    <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+    <p class='meta'>{{ post.date | date_to_string: "ordinal", "US" }} / by {{ post.author }}</p>
   </div>
 </div>
 {% endfor %}
@@ -17,7 +17,7 @@ title: Home
   <div class="sm-6 imgBack link vertCenter textCenter grow short" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
     <div>
       <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+      <p class='meta'>{{ post.date | date_to_string: "ordinal", "US" }} / by {{ post.author }}</p>
     </div>
   </div>
 {% endfor %}
@@ -30,7 +30,7 @@ title: Home
     <div>
       <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+      <p class='meta'>{{ post.date | date_to_string: "ordinal", "US" }} / by {{ post.author }}</p>
     </div>
   </div>
 {% endfor %}
@@ -41,7 +41,7 @@ title: Home
   <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
     <div>
       <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+      <p class='meta'>{{ post.date | date_to_string: "ordinal", "US" }} / by {{ post.author }}</p>
     </div>
   </div>
 {% endfor %}
@@ -54,7 +54,7 @@ title: Home
     <div>
       <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+      <p class='meta'>{{ post.date | date_to_string: "ordinal", "US" }} / by {{ post.author }}</p>
     </div>
   </div>
 {% endfor %}

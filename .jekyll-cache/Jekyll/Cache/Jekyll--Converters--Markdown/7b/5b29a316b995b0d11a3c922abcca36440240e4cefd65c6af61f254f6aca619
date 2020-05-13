@@ -1,0 +1,34 @@
+I"K<p>If this is your first time using Jekyll, don’t be scared! Installing and setting up this particular theme is very, very simple. I’ll walk you through it.</p>
+
+<h2 id="installation">Installation</h2>
+<p>For now, installation of this theme isn’t available through the command line or package managers. Instead, use the Git Repo to grab what you need through a .zip file.</p>
+
+<ol>
+  <li>Fork and Star the <a href="https://github.com/ninapetrop/Artist-Theme">repo</a></li>
+  <li>Download the .zip and save it to your directory</li>
+  <li>Install Jekyll</li>
+  <li>(Optional) Install Gulp - you certainly don’t need it</li>
+</ol>
+
+<h4 id="installing-jekyll">Installing Jekyll</h4>
+<p>Open the terminal and enter the following command: <code class="highlighter-rouge">gem install jekyll</code>. Mac users may need to use <code class="highlighter-rouge">sudo</code>.</p>
+
+<p>For a full Jekyll installation guide, reference the official <a href="http://jekyllrb.com/docs/installation/">Jekyll Docs</a>.</p>
+
+<hr />
+
+<h2 id="using-jekyll-servers-and-posts">Using Jekyll: Servers and Posts</h2>
+
+<h4 id="launching-a-local-jekyll-server">Launching a Local Jekyll Server</h4>
+
+<p>Using the terminal navigate to your directory then enter the command: <code class="highlighter-rouge">jekyll serve</code> to start a local server. In your browser enter the local address that Jekyll gives you.</p>
+
+<h4 id="making-posts">Making Posts</h4>
+
+<p>To make a new post, create a new <code class="highlighter-rouge">.md</code> file following this file structure <code class="highlighter-rouge">2020-12-31-post-title.md</code> within the <code class="highlighter-rouge">_posts</code> directory. Pay close attention to the head matter at the top of each post. If it’s incorrect your Jekyll server will throw errors.</p>
+
+<h4 id="customizing">Customizing</h4>
+
+<p>Change your primary and accent colors inside <code class="highlighter-rouge">assets/css/1-base/_vars.sass</code> by changing the <code class="highlighter-rouge">$primary</code> and <code class="highlighter-rouge">$accent-color</code> variables for site-wide changes.</p>
+
+:ET

@@ -30,7 +30,6 @@ Temporary Items
 
 
 ### Jekyll ###
-_site/
 .sass-cache/
 .jekyll-metadata
 
@@ -38,3 +37,4 @@ _site/
 ### Sass ###
 .sass-cache/
 *.css.map
+node_modules
