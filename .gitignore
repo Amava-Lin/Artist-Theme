@@ -32,7 +32,7 @@ Temporary Items
 ### Jekyll ###
 .sass-cache/
 .jekyll-metadata
-
+.jekyll-cache/
 
 ### Sass ###
 .sass-cache/
