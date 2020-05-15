@@ -7,7 +7,7 @@ thumbnail: oranges.jpg
 <!-- **User Input** Adjust the category filter by changing `site.categories.[thisValue]` -->
 {% for post in site.categories.personal %}
   <div class='listing'>
-    <a class='post-title' href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
+    <a class='post-title' href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
     <p class='meta'>{{ post.date | date_to_string: "ordinal", "US" }} / by {{ post.author }}</p>
   </div>
 {% endfor %}
