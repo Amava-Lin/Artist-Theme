@@ -4,7 +4,7 @@ highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Meet Sara Lin
+title: Sara Lin
 email: saramlin10@gmail.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
 baseurl: "/Artist-Theme" # the subpath of your site, e.g. /blog
