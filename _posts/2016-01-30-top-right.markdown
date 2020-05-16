@@ -9,37 +9,70 @@ categories: professional
 # Information for the author block
 author: Sara Lin
 ---
+<div>
+    <ul class = "intro-actions"> 
+        <li>
+            <a href="{{ site.baseurl }}/assets/cv/SARA_LIN_2020.pdf" class="btn" target="_blank">Download as PDF</a>
+        </li> 
+    </ul> 
+</div>
 
-If this is your first time using Jekyll, don't be scared! Installing and setting up this particular theme is very, very simple. I'll walk you through it.
 
-## Installation
-For now, installation of this theme isn't available through the command line or package managers. Instead, use the Git Repo to grab what you need through a .zip file.
+<div>
+<h2>PROFESSIONAL EXPERIENCE</h2>
 
-1. Fork and Star the [repo][Artist Theme Repo]
-2. Download the .zip and save it to your directory
-3. Install Jekyll
-4. (Optional) Install Gulp - you certainly don't need it
+<h4>Behavior Therapy Technician</h4>
+<b>Crystal Run Village</b>, Middletown, New York             October 2017 – September 2019
+    <li>	Established behavior supports for people with developmental disabilities in a residential setting </li>
+    <li>	Implemented methods for data collection, FBAs, and Behavior Support Plans </li>
+    <li>	Analyzed patterns in behavior to identify proactive methods and intervention strategies in conjunction with the BCBA. Provided training as needed to ensure staff compliance with plan </li>
+    <li>	Maintained working knowledge about behavioral and psychological needs of each individual served. Organized clinical meetings, conducted direct observations, reviewed documents, and charted data from assigned sites on weekly and monthly basis </li>
+    <li>	Attended staff meetings, team programming meetings, and psychiatric appointments as needed. Sent consults with relevant behavior data and occurrences to psychiatric prescriber </li>
 
-#### Installing Jekyll
-Open the terminal and enter the following command: `gem install jekyll`. Mac users may need to use `sudo`.
+<h4>Direct Support Professional</h4>
+<b>Crystal Run Village</b>, Washingtonville, New York             March 2015 – October 2017
+    <li>	Provided behavioral support to individuals with developmental disabilities </li>
+    <li>	Documented notable behavioral, social, and medical occurrences to ensure proper evaluation </li>
+    <li>	Obtained certification to administer approved treatments and medications </li>
+    <li>	Implemented long-term treatment plans involving behavioral, psychological, and medical care </li>
+    <li>	Encouraged consumer independence and achievement of person-centered goals </li>
 
-For a full Jekyll installation guide, reference the official [Jekyll Docs][Jekyll Docs].
+<h4>Copy Editor & Contributing Writer</h4>
+<b>Guiding Tech, guidingtech.com</b>                                                      July 2014 – June 2015
+    <li>	Reviewed stylization, performed image editing, facilitated throughput for all articles published on site </li>
+    <li>	Remained informed on latest technology in order to conduct detailed proofreading and add relevant humor </li>
+    <li>	Coordinated interpersonal interaction with writers and executive editor throughout publishing process </li>
+    
+<h4>Applied Behavior Analysis Tutor</h4> 
+<b>Institute for Child Development</b>, Binghamton, New York   <span style="float:right">August 2010 – May 2011</span>
+    <li>	Enrolled in prestigious program in the Children’s Unit for Treatment and Evaluation at the Institute for Child Development </li>
+    <li>	Received rigorous training in Applied Behavior Analysis (ABA) and behavior modification </li>
+    <li>	Actively engaged in classroom, running strict protocols to tutor children with ASD in social, communication, and academic areas </li>
+</div>
 
-- - -
 
-## Using Jekyll: Servers and Posts
 
-#### Launching a Local Jekyll Server
+<h2>EDUCATION</h2>
+<b>Columbia University</b>, NY, Present
 
-Using the terminal navigate to your directory then enter the command: `jekyll serve` to start a local server. In your browser enter the local address that Jekyll gives you.
+*  MSOT student, Class of 2022
 
-#### Making Posts
+<br/><b>Dominican College</b>, NY, 2019
 
-To make a new post, create a new `.md` file following this file structure `2020-12-31-post-title.md` within the `_posts` directory. Pay close attention to the head matter at the top of each post. If it's incorrect your Jekyll server will throw errors.
+*  Clinical Anatomy
+*  Developmental Psychology II
+*  Neuroscience
+*  Selected Topics in Physics
 
-#### Customizing
+<br/><b>Rockland Community College</b>, NY, 2018
 
-Change your primary and accent colors inside `assets/css/1-base/_vars.sass` by changing the `$primary` and `$accent-color` variables for site-wide changes.
+*  Anatomy & Physiology I
+*  Anatomy & Physiology II
+*  Fundamentals of Speech
+*  Introduction to Sociology
+*  Abnormal Psychology
 
-[Jekyll Docs]: http://jekyllrb.com/docs/installation/
-[Artist Theme Repo]: https://github.com/ninapetrop/Artist-Theme
+<br/><b>Binghamton University</b>, NY, 2009 - 2013
+
+*  B.A. Psychology
+*  B.A. English
