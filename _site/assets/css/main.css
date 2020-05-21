@@ -605,9 +605,11 @@ footer {
   color: white; }
   footer div {
     padding: 40px 0 40px 40px;
-    max-width: 300px; }
+    max-width: 250px; }
     footer div a {
       color: #FF8F00; }
+    footer div p {
+      font-size: 90%; }
 
 .post-wrap.category {
   display: -webkit-box;
@@ -833,8 +835,13 @@ button.download {
   margin: auto;
   font-size: 18px; }
 
+a.post-title {
+  color: black; }
+
 ul.custom-list {
-  list-style: square; }
+  list-style: disc;
+  padding-left: 0px;
+  font-size: 95%; }
 
 .topBar {
   position: fixed;
@@ -862,9 +869,10 @@ ul.custom-list {
   padding: 10px 10px 50px 10px;
   margin: auto; }
   .post-wrap h1 {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    margin-top: 30px; }
   .post-wrap .meta {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-top: 0; }
   .post-wrap hr {
     margin: 40px auto;
@@ -872,7 +880,7 @@ ul.custom-list {
   .post-wrap ol {
     margin-left: 10px; }
   .post-wrap ul {
-    margin-left: 28px\;; }
+    margin-left: 28px; }
   .post-wrap a {
     color: #9FA8DA;
     font-weight: 500; }
