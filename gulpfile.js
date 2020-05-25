@@ -31,7 +31,6 @@ function style() {
  // .pipe(gulp.dest('assets/css'));
 }
 
-
 function jade(done) {
   return gulp.src('_jadefiles/*.jade')
   .pipe(jade())
@@ -64,7 +63,7 @@ function watch() {
     '_data/*',
     '_includes/*'
   ],
-  gulp.series(jekyllBuild, browserSyncReload));
+  gulp.series(jekyllBuild, browserSyncReload, style));
 }
 
-gulp.task('default', gulp.parallel(jekyllBuild, browserSyncServe, watch))
+gulp.task('default', gulp.parallel(jekyllBuild, browserSyncServe, watch, style))
