@@ -475,6 +475,11 @@ body {
 .about .about_social .social_footer a:hover {
   color: #c0334a; }
 
+.full-container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px; }
+
 #menu.slideout-menu.slideout-closed {
   display: none; }
 
@@ -503,7 +508,8 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between; }
   #menu.slideout-menu .flexbox nav h4 {
-    margin-bottom: 5px; }
+    margin-bottom: 5px;
+    padding-top: 1em; }
   #menu.slideout-menu .flexbox nav a {
     display: block;
     padding: 5px 0;
@@ -604,10 +610,43 @@ footer {
   background: #212121;
   color: white; }
   footer div {
-    padding: 40px 0 40px 40px;
-    max-width: 300px; }
-    footer div a {
+    background: #212121;
+    padding: 0.5em 0; }
+  footer div.credit_tag {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    float: left;
+    padding-left: 50px; }
+    footer div.credit_tag a {
       color: #FF8F00; }
+    footer div.credit_tag p {
+      font-size: 0.9em; }
+  footer ul.social_footer {
+    float: right;
+    padding-right: 50px;
+    text-align: center;
+    padding: 0 0 0.5em 0;
+    margin: 0.4em 1em;
+    text-decoration: none;
+    font-size: 2.5em; }
+    footer ul.social_footer li.socials {
+      display: inline-block;
+      padding: 0em 0.25em; }
+    footer ul.social_footer a {
+      color: white; }
+      footer ul.social_footer a:hover {
+        color: #FF8F00; }
 
 .post-wrap.category {
   display: -webkit-box;
@@ -669,7 +708,6 @@ footer {
   -webkit-flex-direction: row;
       -ms-flex-direction: row;
           flex-direction: row;
-  width: 100vw;
   padding: 0;
   margin: 0; }
   @media (max-width: 910px) {
@@ -833,8 +871,13 @@ button.download {
   margin: auto;
   font-size: 18px; }
 
+a.post-title {
+  color: black; }
+
 ul.custom-list {
-  list-style: square; }
+  list-style: disc;
+  padding-left: 0px;
+  font-size: 95%; }
 
 .topBar {
   position: fixed;
@@ -862,9 +905,10 @@ ul.custom-list {
   padding: 10px 10px 50px 10px;
   margin: auto; }
   .post-wrap h1 {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    margin-top: 30px; }
   .post-wrap .meta {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-top: 0; }
   .post-wrap hr {
     margin: 40px auto;
@@ -872,7 +916,7 @@ ul.custom-list {
   .post-wrap ol {
     margin-left: 10px; }
   .post-wrap ul {
-    margin-left: 28px\;; }
+    margin-left: 28px; }
   .post-wrap a {
     color: #9FA8DA;
     font-weight: 500; }

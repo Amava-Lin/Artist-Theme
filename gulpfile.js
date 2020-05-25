@@ -28,7 +28,7 @@ function style() {
   .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
   .pipe(gulp.dest('_site/assets/css'))
   .pipe(browserSync.reload({stream:true}))
- // .pipe(gulp.dest('assets/css'));
+  .pipe(gulp.dest('assets/css'));
 }
 
 function jade(done) {
@@ -53,7 +53,7 @@ function browserSyncReload(done) {
 }
 
 function watch() {
-  gulp.watch(['assets/css/**/*.sass','assets/css/**/*.css','assets/css/*.scss'] , style)
+  gulp.watch(['assets/css/*.scss'] , style)
   gulp.watch('_jadefiles/*.jade', jade);
   gulp.watch(
     [
