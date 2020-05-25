@@ -608,7 +608,8 @@ main .toggle-button {
 
 footer {
   background: #212121;
-  color: white; }
+  color: white;
+  min-height: 11em; }
   footer div {
     background: #212121;
     padding: 0.5em 0; }
