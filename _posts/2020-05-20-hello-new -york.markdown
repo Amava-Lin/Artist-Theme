@@ -10,7 +10,7 @@ categories: personal
 author: Sara Lin
 ---
 
-<h2> Introduction </h2>
+<h2> Introduction </h2>  <!-- style="color: #9FA8DA" -->
 
 Hello there! My name is Sara and I'm a 28-year-old tech enthusiast who's learning the ropes of web dev. I've played around with html and web design since I was a young kit, back before I really understood what it was. 
 
