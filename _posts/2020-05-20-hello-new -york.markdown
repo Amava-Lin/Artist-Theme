@@ -12,25 +12,8 @@ author: Sara Lin
 
 <h2> Introduction </h2>
 
-Hello there!
+Hello there! My name is Sara and I'm a 28-year-old tech enthusiast who's learning the ropes of web dev. I've played around with html and web design since I was a young kit, back before I really understood what it was. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [enim ad minim][link1] veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Those were the days of xanga <span style="color: grey"><i>(circa 2004)</i></span> where my only aim was to have the <span style="color: blue"><b>coolest</b></span> colors, fonts, and custom formatting ever. We had full access to add images, headers, backgrounds, and to change what we pleased. I remember spending hours fine tuning embedded scrolling notifications, music players, and page animations. Even though it was years later, I was absolutely crushed when xanga's services closed down. So many important memories were tied to that online experience, and I felt like part of my childhood had disappeared. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [Ut enim ad minim veniam][link2], quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, [consectetur adipisicing elit][link3], sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-
-###Ut Labore et Dolore
-
-Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet:
-
-1. consectetur adipisicing elit
-2. sed do eiusmod tempor incididunt
-3. ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-[link1]: example.net
-[link2]: example.com
-[link3]: example.org
+So I guess this is my way of expanding on that, grown-up style. Two parts nostalgia, one part self-improvement. A lot has evolved in the web dev realm since then, but it's fun to see how some basic html that I remember from my teenage years remains the same. 
