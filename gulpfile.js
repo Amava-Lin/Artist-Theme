@@ -53,7 +53,7 @@ function browserSyncReload(done) {
 }
 
 function watch() {
-  gulp.watch(['assets/css/*.scss'] , style)
+  gulp.watch(['assets/css/**/*.sass','assets/css/*.scss'] , style)
   gulp.watch('_jadefiles/*.jade', jade);
   gulp.watch(
     [
