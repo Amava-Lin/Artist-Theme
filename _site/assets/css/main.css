@@ -508,8 +508,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between; }
   #menu.slideout-menu .flexbox nav h4 {
-    margin-bottom: 5px;
-    padding-top: 1em; }
+    margin-bottom: 5px; }
   #menu.slideout-menu .flexbox nav a {
     display: block;
     padding: 5px 0;
@@ -523,6 +522,67 @@ body {
       color: #FF8F00; }
     #menu.slideout-menu .flexbox .details p {
       margin-top: 0; }
+
+.toggle-button-2 {
+  z-index: 1;
+  position: fixed;
+  margin-left: 15px;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: rotate(0deg);
+      -ms-transform: rotate(0deg);
+          transform: rotate(0deg);
+  -webkit-transition: .5s ease-in-out;
+  -o-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+  cursor: pointer;
+  background: none;
+  border: none; }
+  .toggle-button-2.pushLeft {
+    z-index: 9999999999999;
+    will-change: transform;
+    margin-left: 205px;
+    overflow: hidden; }
+  .toggle-button-2 .bar {
+    display: block;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: #FF8F00;
+    border-radius: 9px;
+    opacity: 1;
+    left: 0;
+    -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transition: .30s ease-in-out;
+    -o-transition: .30s ease-in-out;
+    transition: .30s ease-in-out; }
+  .toggle-button-2 .bar:nth-child(1) {
+    top: 12px;
+    width: 70%;
+    margin: 0 15%; }
+    .toggle-button-2 .bar:nth-child(1).open {
+      top: 22px;
+      -webkit-transform: rotate(135deg);
+          -ms-transform: rotate(135deg);
+              transform: rotate(135deg); }
+  .toggle-button-2 .bar:nth-child(2) {
+    top: 22px;
+    width: 90%;
+    margin: 0 5%; }
+    .toggle-button-2 .bar:nth-child(2).open {
+      opacity: 0;
+      left: -60px; }
+  .toggle-button-2 .bar:nth-child(3) {
+    top: 32px;
+    width: 70%;
+    margin: 0 15%; }
+    .toggle-button-2 .bar:nth-child(3).open {
+      top: 22px;
+      -webkit-transform: rotate(-135deg);
+          -ms-transform: rotate(-135deg);
+              transform: rotate(-135deg); }
 
 main.pushLeft {
   position: relative;
@@ -788,7 +848,8 @@ footer {
 
 .textPreview {
   padding: 0 50px;
-  min-height: 300px; }
+  min-height: 300px;
+  margin: 2em 0; }
   .textPreview div {
     padding: 20px 0; }
 

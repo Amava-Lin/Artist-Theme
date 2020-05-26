@@ -20,7 +20,7 @@
     nav
       h4
         margin-bottom: 5px
-        padding-top: 1em
+        padding-top:
       a
         display: block
         padding: 5px 0
@@ -35,6 +35,56 @@
         color: $primary
       p
         margin-top: 0
+
+.toggle-button-2
+  &.pushLeft
+    z-index: 9999999999999
+    will-change: transform
+    margin-left: 205px
+    overflow: hidden
+  z-index: 1
+  position: fixed
+  margin-left: 15px
+  width: 50px
+  height: 50px
+  transform: rotate(0deg)
+  transition: .5s ease-in-out
+  cursor: pointer
+  background: none
+  border: none
+  .bar
+    display: block
+    position: absolute
+    height: 3px
+    width: 100%
+    background: $primary
+    border-radius: 9px
+    opacity: 1
+    left: 0
+    transform: rotate(0deg)
+    transition: .30s ease-in-out
+  .bar:nth-child(1)
+    top: 12px
+    width: 70%
+    margin: 0 15%
+    &.open
+      top: 22px
+      transform: rotate(135deg)
+  .bar:nth-child(2)
+    top: 22px
+    width: 90%
+    margin: 0 5%
+    &.open
+      opacity: 0
+      left: -60px
+  .bar:nth-child(3)
+    top: 32px
+    width: 70%
+    margin: 0 15%
+    &.open
+      top: 22px
+      transform: rotate(-135deg)
+
 
 main
   &.pushLeft
