@@ -764,9 +764,6 @@ footer {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
   overflow: hidden;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -852,8 +849,9 @@ footer {
 
 .textPreview {
   padding: 0 50px;
-  min-height: 300px;
-  margin: 2em 0; }
+  min-height: 330px;
+  margin: 2em 0;
+  overflow: hidden; }
   .textPreview div {
     padding: 20px 0; }
 
