@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Education"
-date:   2012-11-09 09:11:03
+title:  "Educational Background"
+date:   2020-05-20 7:00:00
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: type.jpg
 categories: education

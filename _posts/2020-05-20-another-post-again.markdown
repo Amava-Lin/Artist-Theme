@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Artist Theme"
-date:   2008-11-31 09:11:03
+date:   2020-05-20 5:00:00
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: person1.jpeg
 categories: category1

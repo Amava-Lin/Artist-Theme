@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, New York ❤"
-date:   2020-05-20 9:00:00
+date:   2020-05-20 14:00:00
 description: Testing this out and learning the ropes. 
 thumbnail: person2.jpg
 categories: personal

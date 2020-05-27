@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work Experience"
-date:   2020-05-20 7:00:00
+date:   2020-05-20 12:00:00
 description: An overview of Sara's professional work experience. 
 thumbnail: relax.jpg
 categories: professional
