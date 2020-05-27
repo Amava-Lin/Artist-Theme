@@ -843,8 +843,8 @@ footer {
     margin-top: 0; }
 
 .imgBack.link:hover {
-  -webkit-filter: saturate(70%);
-          filter: saturate(70%);
+  -webkit-filter: saturate(50%);
+          filter: saturate(50%);
   cursor: pointer; }
 
 .textPreview {
