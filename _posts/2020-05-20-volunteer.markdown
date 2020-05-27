@@ -9,8 +9,18 @@ categories: professional
 # Information for the author block
 author: Sara Lin
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+During my student observations, I was exposed to an OTR trained in Neurodevelopmental Treatment (NDT). Treatments such as these especially appeal to me in their integration of sensorimotor input and neurological development. Some of the integrative services we discussed included Interactive Metronome Training and Tomatis’ auditory stimulation therapy. These non-invasive methods are incredibly exciting and deserve more attention, research, and administrative support to determine & secure accessibility through health insurance. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Prior to the start of the school year, I hope to expand my volunteer activity further. Some of my previous experiences include:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h3>Helen Hayes Hospital</h3>
+Stony Point, NY | 19 hours | Student Observation
+
+<h3>Bergen Pediatric Therapy Center</h3>
+Westwood, NJ | 22 hours | Student Observation
+
+<h3>Powerhouse Christian Church</h3>
+Wyckoff, NJ | College | Nursery Teacher
+
+<h3>Ramapo Bergen Animal Refuge</h3>
+Oakland, NJ | High School | Feline Care
