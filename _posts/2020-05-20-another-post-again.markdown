@@ -19,7 +19,7 @@ You can style more headings on your own if you'd like within `/assets/css/1-base
 
 - - -
 
-###Paragraphs
+### Paragraphs
 
 For a full list of **emphasis styles** and other cool things you can do in markdown check out [this reference][daringfireball.net].
 
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 - - -
 
-###Lists
+### Lists
 
 **Unordered Lists** - for unordered lists, use asterisks, hyphens, or plus signs as your list markers.
 
