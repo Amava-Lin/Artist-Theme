@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="icon" href="/assets/img/empirestate.svg" sizes="16x16 32x32" type="image/svg+xml">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Art Projects</title>
@@ -8,6 +9,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
@@ -56,54 +58,26 @@
 
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut <a href="example.net">enim ad minim</a> veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<html>
-<!-- Trigger the Modal -->
 <div class="imageRow">
-<img id="myImg" src="/assets/img/brushes.jpg" alt="Wow this is a caption here!" style="width:100%;max-width:15em;height:10em" />
-<img id="myImg" src="/assets/img/brushes.jpg" alt="Wow this is a caption here!" style="width:100%;max-width:15em;height:10em" />
-<img id="myImg" src="/assets/img/brushes.jpg" alt="Wow this is a caption here!" style="width:100%;max-width:15em;height:10em" />
-<img id="myImg" src="/assets/img/brushes.jpg" alt="Wow this is a caption here!" style="width:100%;max-width:15em;height:10em" />
-<img id="myImg" src="/assets/img/brushes.jpg" alt="Wow this is a caption here!" style="width:100%;max-width:15em;height:10em" />
-<img id="myImg" src="/assets/img/brushes.jpg" alt="Wow this is a caption here!" style="width:100%;max-width:15em;height:10em" />
+    <a href="/assets/img/brushes.jpg" style="color: transparent" data-fancybox="images" data-caption="My caption">
+	    <img src="/assets/img/brushes.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="caption here" />
+    </a>
+    <a href="/assets/img/brushes.jpg" style="color: transparent" data-fancybox="images" data-caption="fatty booty">
+	    <img src="/assets/img/brushes.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="caption here" />
+    </a>
+    <a href="/assets/img/brushes.jpg" style="color: transparent" data-fancybox="images" data-caption="LARGE">
+	    <img src="/assets/img/brushes.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="caption here" />
+    </a>
+    <a href="/assets/img/brushes.jpg" style="color: transparent" data-fancybox="images" data-caption="poop">
+	    <img src="/assets/img/brushes.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="caption here" />
+    </a>
+    <a href="/assets/img/brushes.jpg" style="color: transparent" data-fancybox="images" data-caption="five">
+	    <img src="/assets/img/brushes.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="caption here" />
+    </a>
+    <a href="/assets/img/brushes.jpg" style="color: transparent" data-fancybox="images" data-caption="six">
+	    <img src="/assets/img/brushes.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="caption here" />
+    </a>
 </div>
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- The Close Button -->
-  <span class="close">&times;</span>
-
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01" />
-
-  <!-- Modal Caption (Image Text) -->
-  <div id="caption"></div>
-</div>
-
-<script> //Modal image popup
-// Get the modal
-var modal = document.getElementById("myModal");
-
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var img = document.getElementById("myImg");
-var modalImg = document.getElementById("img01");
-var captionText = document.getElementById("caption");
-img.onclick = function(){
-  modal.style.display = "block";
-  modalImg.src = this.src;
-  captionText.innerHTML = this.alt;
-}
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
-</script>
-
-</html>
 
 
 
@@ -149,6 +123,9 @@ span.onclick = function() {
     <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
     <script>$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
     <script src="/assets/js/function.js"></script>
+  
+  
   </body>
 </html>
