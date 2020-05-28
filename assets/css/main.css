@@ -848,12 +848,14 @@ footer {
   cursor: pointer; }
 
 .textPreview {
-  padding: 0 50px;
-  min-height: 330px;
-  margin: 2em 0;
-  overflow: hidden; }
-  .textPreview div {
-    padding: 20px 0; }
+  padding: 0 2em;
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  margin: 4vh 0; }
+
+#blurbPad {
+  padding: 2em; }
 
 .vertCenter {
   display: -webkit-box;
