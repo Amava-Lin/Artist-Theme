@@ -3,7 +3,7 @@ layout: post
 title:  "Occupational Therapy"
 date:   2020-05-20 6:00:00
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: building1.jpg
+thumbnail: food1.jpg
 categories: professional
 
 # Information for the author block

@@ -3,7 +3,7 @@ layout: post
 title:  "Web Design: Getting Started"
 date:   2020-05-20 7:00:00
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: work1.jpg
+thumbnail: workblue.jpg
 categories: personal
 
 # Information for the author block
