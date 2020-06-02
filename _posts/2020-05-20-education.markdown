@@ -10,7 +10,7 @@ categories: education
 author: Sara Lin
 ---
 
-I started going back to school part-time in 2018, and a year later I was ready to apply. I tried for as many schools in the area as I could in order to have the best chances. I was determined to get it done in one shot, and I absolutely didn't want my journey to be pushed back another year. I had been working like crazy taking night classes just to get this chance! It wasn't until February that I received my acceptance to my top school, Columbia University's Vagelos College of Physicians & Surgeons. Wow, was I shocked! As of this Fall, I will officially be in the MSOT Class of 2022!
+I went back to school part-time in 2018, and a year later I was ready to apply for a master's program. I tried for as many schools in the area as I could in order to have the best chances. I was determined to get it done in one shot, and I absolutely didn't want my journey to be pushed back another year. I had been working like crazy taking night classes just to get this chance! It wasn't until February that I received my acceptance to my top school, Columbia University's Vagelos College of Physicians & Surgeons. Wow, was I shocked! As of this Fall, I will officially be in the MSOT Class of 2022!
 
 ---
 
