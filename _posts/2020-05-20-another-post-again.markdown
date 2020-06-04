@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Artist Theme"
+title:  "Theme Stylings"
 date:   2020-05-20 5:00:00
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: person1.jpeg

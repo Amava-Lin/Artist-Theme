@@ -14,10 +14,10 @@ author: Sara Lin
     <a  href="{{ site.baseurl }}/assets/img/monica.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Fruits </b> <br/> May 2020 <br/> pencil sketch">
 	    <img src="{{ site.baseurl }}/assets/img/monica-crop.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Fruit girl"/>
     </a>
-    <a href="{{ site.baseurl }}/assets/img/cactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Cactus Landscape </b> <br/> 2020 <br/> watercolor">
+    <a href="{{ site.baseurl }}/assets/img/cactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Cactus Landscape </b> <br/> Feb 2020 <br/> watercolor">
 	    <img src="{{ site.baseurl }}/assets/img/cactus.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Cactus-scape"/>
     </a>
-    <a href="{{ site.baseurl }}/assets/img/koi.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Koi Pond </b> <br/> 2020 <br/> watercolor over pencil sketch">
+    <a href="{{ site.baseurl }}/assets/img/koi.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Koi Pond </b> <br/> April 2020 <br/> watercolor over pencil sketch">
 	    <img src="{{ site.baseurl }}/assets/img/koi-crop.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Koi Pond"/>
     </a>
     <a href="{{ site.baseurl }}/assets/img/hugacactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Hug a Cactus :3 </b> <br/> Dec 2019 <br/> digital drawing <br/> created with Adobe Sketch">
