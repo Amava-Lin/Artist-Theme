@@ -27,7 +27,7 @@ author: Sara Lin
 	    <img src="{{ site.baseurl }}/assets/img/sunflower.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Red Sunflower"/>
     </a>
     <a href="{{ site.baseurl }}/assets/img/lily.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Pink Waterlily </b> <br/> June 2015 <br/> photograph, Sony DSC-RX100 <br/> original photograph, cropped">
-	    <img src="{{ site.baseurl }}/assets/img/lily.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Pink Lily"/>
+	    <img src="{{ site.baseurl }}/assets/img/lily.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Pink Waterlily"/>
     </a>
 </div>
 
