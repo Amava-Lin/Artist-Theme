@@ -20,6 +20,9 @@ author: Sara Lin
     <a href="{{ site.baseurl }}/assets/img/koi.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Koi Pond </b> <br/> April 2020 <br/> watercolor over pencil sketch">
 	    <img src="{{ site.baseurl }}/assets/img/koi-crop.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Koi Pond"/>
     </a>
+    <a href="{{ site.baseurl }}/assets/img/sedona.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Cathedral Rock, Sedona AZ </b> <br/> December 2019 <br/> acrylics on notebook cover">
+	    <img src="{{ site.baseurl }}/assets/img/sedona-crop.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Koi Pond"/>
+    </a>
     <a href="{{ site.baseurl }}/assets/img/hugacactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Hug a Cactus :3 </b> <br/> Dec 2019 <br/> digital drawing <br/> created with Adobe Sketch">
 	    <img src="{{ site.baseurl }}/assets/img/hugacactus.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Hug a cactus"/>
     </a>
