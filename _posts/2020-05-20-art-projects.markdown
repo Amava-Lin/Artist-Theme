@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Art & Photo Work"
+title:  "Art & Photo Edits"
 date:   2020-05-20 6:00:00
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: watercolor.jpg
