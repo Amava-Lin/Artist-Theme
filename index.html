@@ -26,7 +26,7 @@ title: Hello, New York ❤
 
 <div class='flexbox' id="blurbPad">
 {% for post in site.posts limit:2 offset:3 %}
-  <div class="sm-6 textPreview vertCenter grow short">
+  <div class="sm-6 textPreview grow" >
     <div>
       <a class='caps post-title' href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
@@ -50,7 +50,7 @@ title: Hello, New York ❤
 
 <div class='flexbox' id="blurbPad">
 {% for post in site.posts limit:2 offset:8 %}
-  <div class="sm-6 textPreview vertCenter grow short">
+  <div class="sm-6 textPreview grow">
     <div>
       <a class='caps post-title' href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>

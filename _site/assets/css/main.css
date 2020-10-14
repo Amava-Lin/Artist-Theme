@@ -852,7 +852,10 @@ footer {
   min-height: -webkit-fit-content;
   min-height: -moz-fit-content;
   min-height: fit-content;
-  margin: 4vh 0; }
+  margin: 4vh 0;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis; }
 
 #blurbPad {
   padding: 2em; }
