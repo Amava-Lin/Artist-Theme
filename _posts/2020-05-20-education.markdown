@@ -2,6 +2,7 @@
 layout: post
 title:  "Educational Background"
 date:   2020-05-20 11:00:00
+order: 4
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: type.jpg
 categories: education

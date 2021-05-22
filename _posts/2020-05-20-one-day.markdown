@@ -2,6 +2,7 @@
 layout: post
 title:  "One Day at a Time"
 date:   2020-05-20 13:00:00
+order: 2
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id, mattis.
 thumbnail: food2.jpg
 categories: personal
