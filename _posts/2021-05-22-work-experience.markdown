@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work Experience"
-date:   2020-05-20 12:00:00
+date:   2021-05-22 12:00:00
 order: 3
 description: An overview of Sara's professional work experience. 
 thumbnail: relax.jpg
@@ -15,6 +15,15 @@ author: Sara Lin
 </span>
 
 <div>
+<h3>Research Assistant</h3>
+<b>Columbia University Irving Medical Center</b>, New York, NY <span style="float:right">October 2020 – Present</span>
+<br /><i>Department of Rehabilitation and Regenerative Medicine</i>
+<ul class="custom-list">
+    <li>    Worked alongside MyHand research team on a cross-disciplinary project funded by the NIH </li>
+    <li>    Generated list of target contacts and distributed study information to recruit participants </li>
+    <li>    Interviewed participants according to IRB-approved script, conducted evaluations, and recorded data </li>
+</ul>
+
 <h3>Behavior Therapy Technician</h3>
 <b>Crystal Run Village</b>, Middletown, New York   <span style="float:right">October 2017 – September 2019</span>
 <ul class="custom-list">

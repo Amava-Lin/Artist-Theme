@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Art & Photo Edits"
+title:  "Art & Photography"
 date:   2020-05-20 6:00:00
 order:  8
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
@@ -15,7 +15,7 @@ author: Sara Lin
     <a  href="{{ site.baseurl }}/assets/img/monica.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Fruits </b> <br/> May 2020 <br/> pencil sketch">
 	    <img src="{{ site.baseurl }}/assets/img/monica-crop.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Fruit girl"/>
     </a>
-    <a href="{{ site.baseurl }}/assets/img/cactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Cactus Landscape </b> <br/> Feb 2020 <br/> watercolor">
+    <a href="{{ site.baseurl }}/assets/img/cactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Cactus Landscape </b> <br/> February 2020 <br/> watercolor">
 	    <img src="{{ site.baseurl }}/assets/img/cactus.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Cactus-scape"/>
     </a>
     <a href="{{ site.baseurl }}/assets/img/koi.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Koi Pond </b> <br/> April 2020 <br/> watercolor over pencil sketch">
@@ -24,7 +24,7 @@ author: Sara Lin
     <a href="{{ site.baseurl }}/assets/img/sedona.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Cathedral Rock, Sedona AZ </b> <br/> December 2019 <br/> acrylics on notebook cover">
 	    <img src="{{ site.baseurl }}/assets/img/sedona-crop.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Koi Pond"/>
     </a>
-    <a href="{{ site.baseurl }}/assets/img/hugacactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Hug a Cactus :3 </b> <br/> Dec 2019 <br/> digital drawing <br/> created with Adobe Sketch">
+    <a href="{{ site.baseurl }}/assets/img/hugacactus.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Hug a Cactus :3 </b> <br/> December 2019 <br/> digital drawing <br/> created with Adobe Sketch">
 	    <img src="{{ site.baseurl }}/assets/img/hugacactus.jpg" id="myImg" style="width:100%; max-width:15em; height:10em" alt="Hug a cactus"/>
     </a>
     <a href="{{ site.baseurl }}/assets/img/sunflower.jpg" style="color: transparent" data-fancybox="images" data-caption="<b> Red Sunflower </b> <br/> July 2015 <br/> photograph, Sony DSC-RX100 <br/> color editing, Adobe Photoshop">

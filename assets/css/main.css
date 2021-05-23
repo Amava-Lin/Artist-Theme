@@ -422,7 +422,7 @@ a {
   color: #FF8F00; }
 
 .accent {
-  color: #9FA8DA; }
+  color: #8FA0FF; }
 
 img::-moz-selection {
   background: transparent; }
@@ -452,7 +452,7 @@ body {
   -webkit-box-sizing: border-box; }
 
 .button {
-  background: #9FA8DA;
+  background: #8FA0FF;
   width: 150px;
   height: 50px;
   padding: 5px 10px;
@@ -934,7 +934,7 @@ button.download {
   height: 45px;
   padding: 5px;
   border: none;
-  background: #9FA8DA;
+  background: #8FA0FF;
   color: white;
   border-radius: 2px;
   margin: auto;
@@ -986,7 +986,7 @@ ul.custom-list {
   .post-wrap ul {
     margin-left: 28px; }
   .post-wrap a {
-    color: #9FA8DA;
+    color: #8FA0FF;
     font-weight: 500; }
     .post-wrap a.post-title {
       color: #212121; }
